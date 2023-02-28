@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    fill: #36454f;
+
+}
+
+.hero { 
+    width: 100%;
+    height: 100vh;
+    background: #36454f ;
+
+}
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: wavy;
+    color: #eb7a09c7;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: white;
+}
+
+.detel{
+    margin-left: 5%;
+    margin-top: 15%;
+}
+
+.detel{
+    font-size: 20px;
+    color: #ffffffc7;
+    margin-bottom: 18px;
+}
+
+span{
+    color: #eb7a09c7;
+}
+
+.detel p{
+    color: #ffffffc7;
+    line-height: 20px ;
+}
+
+.detel a{
+    background: #eb7a09c7;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    margin: 50px o;
+    border-radius: 5px;
+}
+
+.images{
+    width: 1%;
+    height: 1%;
+    position: absolute;
+    bottom: 400px;
+    top: 150;
+    left: 770;
+}
+
+.form{
+    width:250px;
+    height: 380px;
+    position: absolute;
+    bottom: -250px;
+    left: 80px;
+    color: #ffffffc7;
+}
+
+.fwh-slide{
+    height: 100vh;
+    background-color: #36454f;
+    box-sizing: border-box;
+}
+
+
+.box{
+
+    width: 430px;
+    padding: 20px;
+    margin-top: 20%;
+    margin-left: 60%;
+    margin-bottom: 4%
+    
+}
+
+.leoPic{
+    margin-top: -10%;
+    margin-left: -8%;
+    height: 40;
+ }
+
+
+.skills{
+    text-align: left 10px;
+    margin-left: 5%;
+    color: white;
+    font-style: unset;
+    font-size: x-large;
+    
+}
+
+.LionPic{
+    margin-left: 30%;
+}
+ 
+.contact{
+    padding: 5%;
+
+
+}
