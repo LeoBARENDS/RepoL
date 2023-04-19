@@ -1,0 +1,23 @@
+.box{
+    background-image: url(Images/bulls\ eye.png);
+    display: flex;
+    align-items: center;
+    color: #000000;
+    
+}
+
+
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #000000, #02032bcc);
+    padding: 10px;
+    height: 100%;
+}
+
